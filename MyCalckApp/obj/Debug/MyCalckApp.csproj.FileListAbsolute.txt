@@ -1,0 +1,16 @@
+C:\Users\Вувичка\source\repos\MyCalckApp\MyCalckApp\bin\Debug\MyCalckApp.exe.config
+C:\Users\Вувичка\source\repos\MyCalckApp\MyCalckApp\bin\Debug\MyCalckApp.exe
+C:\Users\Вувичка\source\repos\MyCalckApp\MyCalckApp\bin\Debug\MyCalckApp.pdb
+C:\Users\Вувичка\source\repos\MyCalckApp\MyCalckApp\obj\Debug\MainWindow.g.cs
+C:\Users\Вувичка\source\repos\MyCalckApp\MyCalckApp\obj\Debug\App.g.cs
+C:\Users\Вувичка\source\repos\MyCalckApp\MyCalckApp\obj\Debug\MyCalckApp_MarkupCompile.cache
+C:\Users\Вувичка\source\repos\MyCalckApp\MyCalckApp\obj\Debug\MyCalckApp_MarkupCompile.lref
+C:\Users\Вувичка\source\repos\MyCalckApp\MyCalckApp\obj\Debug\Assets\Dictionaries\MainDictionary.baml
+C:\Users\Вувичка\source\repos\MyCalckApp\MyCalckApp\obj\Debug\MainWindow.baml
+C:\Users\Вувичка\source\repos\MyCalckApp\MyCalckApp\obj\Debug\MyCalckApp.g.resources
+C:\Users\Вувичка\source\repos\MyCalckApp\MyCalckApp\obj\Debug\MyCalckApp.Properties.Resources.resources
+C:\Users\Вувичка\source\repos\MyCalckApp\MyCalckApp\obj\Debug\MyCalckApp.csproj.GenerateResource.cache
+C:\Users\Вувичка\source\repos\MyCalckApp\MyCalckApp\obj\Debug\MyCalckApp.csproj.CoreCompileInputs.cache
+C:\Users\Вувичка\source\repos\MyCalckApp\MyCalckApp\obj\Debug\MyCalckApp.exe
+C:\Users\Вувичка\source\repos\MyCalckApp\MyCalckApp\obj\Debug\MyCalckApp.pdb
+C:\Users\Вувичка\source\repos\MyCalckApp\MyCalckApp\obj\Debug\App.baml
